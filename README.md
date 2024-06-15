@@ -1,4 +1,4 @@
-# Front End de API Rest
+# Front End API Rest
 
 Este proyecto configura una aplicación mínima de React usando TypeScript y Vite. Se enfoca en implementar Hot Module Replacement (HMR) e incluye reglas de ESLint para mantener la calidad del código. El proyecto demuestra el uso de dos plugins oficiales de Vite para Fast Refresh: uno usando Babel y otro usando SWC. Además, proporciona guías para extender la configuración de ESLint para habilitar reglas de lint conscientes del tipo, adecuadas para aplicaciones de producción.
 
